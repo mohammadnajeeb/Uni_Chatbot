@@ -1,4 +1,4 @@
-# Faiz Chatbot
+# Uni Chatbot
 
 A chatbot trained on data from AMU (Aligarh Muslim University) websites, designed to answer questions in a professional yet engaging manner.
 
